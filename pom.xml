@@ -14,7 +14,7 @@
 	<name>LoadCvsToDatabase</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 		<bootstrap.version>4.0.0-2</bootstrap.version>
 		<webjars-locator.version>0.30</webjars-locator.version>
 	</properties>
